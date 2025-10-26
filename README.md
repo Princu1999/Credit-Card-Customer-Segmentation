@@ -19,8 +19,8 @@ Traditional single‑algorithm clustering often struggles on high‑dimensional,
 ## Directory Structure
 ```
 market-segmentation-hybrid-clustering/
-├─ data/                           # place Customer_Data.csv here (kept out of git)
-├─ notebooks/                      # original, exploratory work if you want to keep the .ipynb
+├─ data/                           # Customer Segmentation data
+├─ notebooks/                      
 ├─ results/
 │  └─ figs/                        # auto-saved plots
 ├─ src/
