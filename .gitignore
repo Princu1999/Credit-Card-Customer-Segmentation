@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.env.*
+dist/
+build/
+*.egg-info
+
+# Data / results
+data/*
+!data/.keep
+results/*
+!results/figs/
+!results/.keep
+results/figs/*
+!results/figs/.keep
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
