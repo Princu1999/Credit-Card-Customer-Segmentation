@@ -2,8 +2,6 @@
 
 **One‑line**: Robust, industry‑oriented customer segmentation using a hybrid of K‑Means, DBSCAN, and GMM with feature‑level fusion and a secondary K‑Means refiner.
 
-> Based on the attached project report (Group 29) detailing EDA, individual clusterers, and a hybrid scheme leveraging voting and centroid‑distance features. 
-
 ## Why this project?
 Traditional single‑algorithm clustering often struggles on high‑dimensional, noisy customer data. This repo packages a practical **hybrid clustering** workflow that:
 - runs **K‑Means / DBSCAN / GMM**,
